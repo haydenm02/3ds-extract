@@ -14,8 +14,8 @@ python extract.py
 Splits the images in to two separate images. Also creates a combined image merging the Red and Blue/Green channels.
 
 Left:
-![Left](examples/lake_left.jpg)
+![Left](examples/lake_left.jpg | width=100)
 Right:
-![Right](examples/lake_right.jpg)
+![Right](examples/lake_right.jpg | width=100)
 Merged:
-![Merged](examples/lake_merged.jpg)
+![Merged](examples/lake_merged.jpg | width=100)
