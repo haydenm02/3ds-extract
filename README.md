@@ -6,7 +6,7 @@ A script to extract the separate images from a Nintendo 3DS.
 
 Input: *.MPO files in the same folder as the script
 
-Output: *_left, *_right, *combined.jpg in processed/
+Output: *_left, *_right, *_combined.jpg in processed/
 
 ```bash
 python extract.py
